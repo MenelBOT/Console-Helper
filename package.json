@@ -1,5 +1,5 @@
 {
-	"name": "console-util",
+	"name": "console-helper",
 	"version": "1.0.0",
 	"type": "module",
 	"main": "./dist/index.js",
@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/MenelBOT/Console-Util.git"
+		"url": "https://github.com/MenelBOT/Console-Helper.git"
 	},
 	"scripts": {
 		"build": "rimraf ./dist && tsc",

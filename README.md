@@ -1,17 +1,17 @@
-# Console Utility
+# Console Helper
 
-A customizable console utility for Node.js with enhanced logging, timing, and color formatting options.
+A customizable console utility for Node.js enabling programmatic capture of logging, timing, and color formatting options.
 
 ## Installation
 
 ```bash
-npm install console-util
+npm install console-helper
 ```
 
 ## Usage
 
 ```ts
-import Console, { ConsoleOptions } from "console-util";
+import Console, { ConsoleOptions } from "console-helper";
 
 const options: ConsoleOptions = {
   stdout: process.stdout,
